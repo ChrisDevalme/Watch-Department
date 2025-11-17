@@ -3,8 +3,6 @@
 Watch Department is a full-stack e-commerce application for browsing and managing a catalog of watches.  
 It’s built on top of a custom React + Node.js starter (no CRA), using Webpack, Gulp, Babel, and a small Express server so you can see everything that’s happening “under the hood”.
 
-> This project was originally bootstrapped from the **Big Poppa Code React Starter Kit** and extended into a full watch store experience.
-
 ---
 
 ## 🚀 Features
@@ -15,10 +13,7 @@ It’s built on top of a custom React + Node.js starter (no CRA), using Webpack,
 - **Shopping experience**
   - Add/remove items from a cart
   - Update quantities
-  - (Optional) Placeholder for checkout flow / order summary
-- **Filter & sort (if implemented)**
-  - Filter by brand, price range, style, etc.
-  - Sort by price or other attributes
+  - Placeholder for checkout flow / order summary
 - **Full-stack architecture**
   - React front-end backed by an Express server
   - Controllers / models / routes structure for a clean API layer
@@ -26,7 +21,7 @@ It’s built on top of a custom React + Node.js starter (no CRA), using Webpack,
   - Webpack + Babel for modern JS/JSX
   - Gulp, Browsersync, and Nodemon for hot reload and a smooth DX
   - Prettier config for consistent code style
-  - Tailwind / SCSS (depending on your styling in `src/`) for styling
+  - Tailwind / SCSS for styling
 
 ---
 
@@ -37,7 +32,7 @@ It’s built on top of a custom React + Node.js starter (no CRA), using Webpack,
 - React
 - JavaScript (ES6+)
 - JSX
-- SCSS / CSS (and utility classes via Tailwind config if you enable it)
+- SCSS / CSS 
 
 **Backend**
 
